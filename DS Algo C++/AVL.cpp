@@ -108,3 +108,9 @@ struct AVL {
         return search(bst, k)->val;
     }
 };
+
+/*
+
+    https://www.spoj.com/problems/ADAAPHID/
+
+*/
