@@ -1,5 +1,8 @@
 
 /*
+
+    https://leetcode.com/problems/create-maximum-number/
+
     Soltion 1
     
     Time : O(K * N^3)
